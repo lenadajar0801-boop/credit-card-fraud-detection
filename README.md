@@ -9,7 +9,7 @@ The dataset is highly **imbalanced**, making this a challenging classification p
 
 ## Dataset
 
-Source: Kaggle – Credit Card Fraud Detection Dataset
+Source: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Dataset characteristics:
 
