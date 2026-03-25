@@ -100,5 +100,7 @@ Possible improvements to enhance the model:
 ---
 
 ## Author
+Allen Adajar
+Cost Accountant | Data Analyst | Aspiring Data Scientist
 
-Conrad Allen C. Adajar,RCA – Data Science Portfolio Project
+GitHub: https://github.com/lenadajar0801-boop
